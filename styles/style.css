@@ -12,7 +12,7 @@ html {
 body {
     color: var(--color-black);
     background-color: var(--color-white);
-    font-family: 'Raleway', sans-serif;
+    font-family: Raleway;
     font-weight: 400;
     line-height: 1.2;
 }
