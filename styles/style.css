@@ -135,7 +135,7 @@ body {
 }
 
 .letter-spacing-extended {
-    letter-spacing: 0.6em;
+    letter-spacing: 0.3em;
 }
 
 .no-letter-spacing {
@@ -169,7 +169,7 @@ body {
 }
 
 .lots {
-    padding: 180px 0px;
+    padding: 170px 30px;
 }
 
 .lots-heading {
@@ -256,7 +256,7 @@ body {
     padding: 0 0px 180px;
     display: grid;
     grid-template-columns: 385px 1fr;
-    gap: 25px;
+    gap: 0px;
 }
 
 .about-column {
