@@ -192,7 +192,7 @@ html {
 }
 
 .lots-card-list-item {
-    flex: 1;
+    flex: 0 0 calc(33.333% - 17px);
     min-height: 450px;
     min-width: 0;
 }
